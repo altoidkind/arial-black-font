@@ -5,6 +5,10 @@ jsDelivr CDN:
 
 https://cdn.jsdelivr.net/gh/altoidkind/arial-black-font/arial-black.eot
 
+https://cdn.jsdelivr.net/gh/altoidkind/arial-black-font/arial-black.ttf
+
+https://cdn.jsdelivr.net/gh/altoidkind/arial-black-font/arial-black.svg
+
 https://cdn.jsdelivr.net/gh/altoidkind/arial-black-font/arial-black.otf
 
 https://cdn.jsdelivr.net/gh/altoidkind/arial-black-font/arial-black.woff
